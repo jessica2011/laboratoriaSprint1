@@ -22,7 +22,7 @@ var sum = 0;
         sum += arrayInverse[i];
     }
     //para validarel numero de tarjetas la suma de digitos mod 10 debe resulta cero, si es asi, me muestre true, de lo contrario un false
-    return sum % 10 == 0 ? true : false;
+    return sum % 10 == 0 ? alert (true) : alert (false);
 }
 
 //el ingreso de dato dentro de un prompt siempre es de tipo string

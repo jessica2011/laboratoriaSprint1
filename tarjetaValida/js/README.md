@@ -5,10 +5,12 @@
 3. Ejecución del código en JS.
 4. Explicación del código.
 
-                                                                                - - - - - - - -  --- - - - - - - - -- -
+- - - - - - -  --- - - - - - - - -- -
 
 ### 1. DIAGRAMA DE FLUJO
 ![DF_validCard](validCard.png "Diagrama Flujo ValidCard")
+
+- --------------------
 
 ### 2. PSEUDOCÓDIGO
 
@@ -40,5 +42,7 @@
 
     llamar la funcion
       isValidCard (cardNumber)
+
+- ------------------------------------------
 
 ### 3. CÓDIGO
